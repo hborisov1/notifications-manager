@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notifications Manager</string>
+    <string name="btn_grand_permissions">Go to settings</string>
+    <string name="text_permission_required">You currently don\'t have notifications permission. Go to settings to enable them</string>
+    <string name="text_empty_state">There are no notifications currently</string>
+    <string name="text_filter_all_notifications">All Notifications</string>
+    <string name="text_filter_active_notifications">Active only</string>
+    <string name="service_name">NotificationListener</string>
+    <string name="btn_create_test_notification">Create test notification</string>
+</resources>
